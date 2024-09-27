@@ -1,0 +1,5 @@
+#!bin/hash
+echo "Welcome to Git config"
+git config --global user.email "jentennejlepsi@seznam.cz"
+git config --global user.name "Peter Rose"
+echo "Done successfully"
